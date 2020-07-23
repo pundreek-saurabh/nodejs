@@ -32,13 +32,13 @@ When contributing to this repository, please follow the following instructions:
 		
 
 3. Set original repo URL as "upstream" remote.
-	* Copy the main repo's URL,  
-	  https://github.com/blitz450/nodejs
+	* Copy the main repo's git URL,  
+	  https://github.com/blitz450/nodejs.git
 		
 	 * Open your Terminal, cd to the repo folder, enter following command to add an upstream remote:  
 	
 		```
-		git remote add upstream https://github.com/blitz450/nodejs
+		git remote add upstream https://github.com/blitz450/nodejs.git
 		```
 		
 
