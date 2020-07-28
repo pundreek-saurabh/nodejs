@@ -27,7 +27,7 @@ const body =(req, res, next) =>{
 ===========================================================
 */
 
-//To enable all cors request.
+
 const element =(req, res, next) =>{
   console.log('cors middleware');
   next();
